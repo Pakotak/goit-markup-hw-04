@@ -526,7 +526,7 @@ p {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #ffffff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 .footer-text {
   max-width: 264px;
